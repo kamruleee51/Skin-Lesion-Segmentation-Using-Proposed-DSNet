@@ -6,7 +6,9 @@ The directory of the repository is given below-
 
 The more details of the proposed DSNet for the automatic and robust skin lesion segmentation can be found in the paper below- <br>
 
-Written by-  <br>
+.............Coming Soon.................. <br>
+
+#### Written by-  <br>
 Md. Kamrul Hasan <br> 
 Erasmus Scholar on Medical Imaging and Application (MAIA) [http://maiamaster.udg.edu/] <br> 
 For more details write me at kamruleeekuet@gmail.com <br>
