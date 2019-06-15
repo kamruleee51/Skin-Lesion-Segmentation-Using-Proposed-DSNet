@@ -2,4 +2,5 @@
 
 The directory of the repository is given below-
 
-![directory tree](https://user-images.githubusercontent.com/32570071/58363402-e350c080-7ea3-11e9-8cd3-ced98bfb464a.PNG)
+![directory of the repository](https://user-images.githubusercontent.com/32570071/59551310-fec95b80-8f77-11e9-824f-ff49a8c2075a.png)
+
