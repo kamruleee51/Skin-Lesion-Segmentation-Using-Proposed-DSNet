@@ -4,7 +4,7 @@ The directory of the repository is given below-
 
 ![directory of the repository](https://user-images.githubusercontent.com/32570071/59551310-fec95b80-8f77-11e9-824f-ff49a8c2075a.png)
 
-The more details of the proposed DSNet for the automatic and robust skin lesion segmentation can be found in the paper below- <br>
+The more details of the proposed DSNet for the automatic and robust skin lesion segmentation can be found in the paper given below- <br>
 
 .............Coming Soon.................. <br>
 
