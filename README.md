@@ -1,4 +1,4 @@
-# Skin-Lesion-Segmentation-Using-CNN
+# Skin-Lesion-Segmentation-Using-Proposed-DSNet
 
 The directory of the repository is given below-
 
