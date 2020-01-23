@@ -6,6 +6,10 @@ The directory of the repository is given below-
 
 ![directory of the repository](https://user-images.githubusercontent.com/32570071/59551310-fec95b80-8f77-11e9-824f-ff49a8c2075a.png)
 
+
+We evaluate our proposed model on two publicly available datasets, namely ISIC-2017 and PH2. The obtained mean Intersection over Union (mIoU) is 77.5 % and 87.0 % respectively for ISIC-2017 and PH2 datasets which outperformed the ISIC-2017 challenge winner
+by 1.0 % with respect to mIoU. Our proposed network also outperformed U-Net and FCN8s respectively by 3:6 % and 6:8 % with respect to mIoU on the ISIC-2017 dataset.
+
 The more details of the proposed DSNet for the automatic and robust skin lesion segmentation can be found in the paper given below- <br>
 
 .............Coming Soon.................. <br>
