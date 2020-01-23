@@ -1,4 +1,4 @@
-# Skin-Lesion-Segmentation-Using-Proposed-DSNet
+# DSNet: Automatic Dermoscopic Skin Lesion Segmentation
 
 The directory of the repository is given below-
 
