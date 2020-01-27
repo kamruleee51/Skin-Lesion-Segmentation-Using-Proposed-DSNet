@@ -12,7 +12,7 @@ by 1.0 % with respect to mIoU. Our proposed network also outperformed U-Net and 
 
 The more details of the proposed DSNet for the automatic and robust skin lesion segmentation can be found in the paper given below- <br>
 
-https://arxiv.org/abs/1907.04305 <br>
+https://arxiv.org/abs/1907.04305  <br>
 
 #### Written by-  <br>
 Md. Kamrul Hasan <br> 
